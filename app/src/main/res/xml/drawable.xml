@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="LineageOS" />
+    <item drawable="browser" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="contacts" />
+    <item drawable="dialer" />
+    <item drawable="downloads" />
+    <item drawable="files" />
+    <item drawable="gallery" />
+    <item drawable="gmail" />
+    <item drawable="messages" />
+    <item drawable="music" />
+    <item drawable="recorder" />
+    <item drawable="settings" />
+
+    <category title="ThirdApps" />
+    <item drawable="rootexplorer" />
+    <item drawable="myandroidtools_pro" />
+    <item drawable="myandroidtools_xposed" />
+    <item drawable="unblockmusic_pro_xposed" />
+    <item drawable="dolby_beta_xposed" />
+    <item drawable="nubia_yaokongqi" />
+    <item drawable="xplayer" />
+    <item drawable="kuwo_music" />
+    <item drawable="package_name" />
+    <item drawable="handshaker" />
+    <item drawable="zyplayer" />
+    <item drawable="zy_player" />
+    <item drawable="taichi" />
+</resources>
