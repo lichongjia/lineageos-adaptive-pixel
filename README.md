@@ -1,4 +1,4 @@
-# lineageos-adaptive-icons-pixel
-A Pixel style custom iconpack for LineageOS 17.1.
+# LineageOS adaptive icon pack
+A Pixel style custom icon pack for LineageOS 17.1
 
-![icon_prev](./icon_prev.png)
+<img src="./icon_prev.png" alt="icon_prev" style="zoom:75%;" />
